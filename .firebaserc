@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "makapela-chords"
+  },
+  "targets": {
+    "makapela-chords": {
+      "hosting": {
+        "makapela-chords": [
+          "makapela-chords"
+        ]
+      }
+    }
+  }
+}
